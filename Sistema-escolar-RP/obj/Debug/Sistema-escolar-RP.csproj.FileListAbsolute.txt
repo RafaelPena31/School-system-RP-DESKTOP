@@ -1,0 +1,11 @@
+C:\Users\HP\Documents\Project\Sistema-escolar-RP\Sistema-escolar-RP\bin\Debug\Sistema-escolar-RP.exe.config
+C:\Users\HP\Documents\Project\Sistema-escolar-RP\Sistema-escolar-RP\bin\Debug\Sistema-escolar-RP.exe
+C:\Users\HP\Documents\Project\Sistema-escolar-RP\Sistema-escolar-RP\bin\Debug\Sistema-escolar-RP.pdb
+C:\Users\HP\Documents\Project\Sistema-escolar-RP\Sistema-escolar-RP\obj\Debug\Sistema-escolar-RP.csprojAssemblyReference.cache
+C:\Users\HP\Documents\Project\Sistema-escolar-RP\Sistema-escolar-RP\obj\Debug\Sistema_escolar_RP.frmAlunos.resources
+C:\Users\HP\Documents\Project\Sistema-escolar-RP\Sistema-escolar-RP\obj\Debug\Sistema_escolar_RP.Properties.Resources.resources
+C:\Users\HP\Documents\Project\Sistema-escolar-RP\Sistema-escolar-RP\obj\Debug\Sistema-escolar-RP.csproj.GenerateResource.cache
+C:\Users\HP\Documents\Project\Sistema-escolar-RP\Sistema-escolar-RP\obj\Debug\Sistema-escolar-RP.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Project\Sistema-escolar-RP\Sistema-escolar-RP\obj\Debug\Sistema-escolar-RP.exe
+C:\Users\HP\Documents\Project\Sistema-escolar-RP\Sistema-escolar-RP\obj\Debug\Sistema-escolar-RP.pdb
+C:\Users\HP\Documents\Project\Sistema-escolar-RP\Sistema-escolar-RP\obj\Debug\Sistema_escolar_RP.frmMenu.resources
