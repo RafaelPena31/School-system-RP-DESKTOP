@@ -9,3 +9,29 @@ C:\Users\HP\Documents\Project\Sistema-escolar-RP\Sistema-escolar-RP\obj\Debug\Si
 C:\Users\HP\Documents\Project\Sistema-escolar-RP\Sistema-escolar-RP\obj\Debug\Sistema-escolar-RP.exe
 C:\Users\HP\Documents\Project\Sistema-escolar-RP\Sistema-escolar-RP\obj\Debug\Sistema-escolar-RP.pdb
 C:\Users\HP\Documents\Project\Sistema-escolar-RP\Sistema-escolar-RP\obj\Debug\Sistema_escolar_RP.frmMenu.resources
+C:\Users\rafae\OneDrive\Documentos\Project\COTEMIG - Tecnicas de programacao\Sistema-Escolar-RP\Sistema-escolar-RP\bin\Debug\Sistema-escolar-RP.exe.config
+C:\Users\rafae\OneDrive\Documentos\Project\COTEMIG - Tecnicas de programacao\Sistema-Escolar-RP\Sistema-escolar-RP\bin\Debug\Sistema-escolar-RP.exe
+C:\Users\rafae\OneDrive\Documentos\Project\COTEMIG - Tecnicas de programacao\Sistema-Escolar-RP\Sistema-escolar-RP\bin\Debug\Sistema-escolar-RP.pdb
+C:\Users\rafae\OneDrive\Documentos\Project\COTEMIG - Tecnicas de programacao\Sistema-Escolar-RP\Sistema-escolar-RP\bin\Debug\MySql.Data.dll
+C:\Users\rafae\OneDrive\Documentos\Project\COTEMIG - Tecnicas de programacao\Sistema-Escolar-RP\Sistema-escolar-RP\bin\Debug\Google.Protobuf.dll
+C:\Users\rafae\OneDrive\Documentos\Project\COTEMIG - Tecnicas de programacao\Sistema-Escolar-RP\Sistema-escolar-RP\bin\Debug\Zstandard.Net.dll
+C:\Users\rafae\OneDrive\Documentos\Project\COTEMIG - Tecnicas de programacao\Sistema-Escolar-RP\Sistema-escolar-RP\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\rafae\OneDrive\Documentos\Project\COTEMIG - Tecnicas de programacao\Sistema-Escolar-RP\Sistema-escolar-RP\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\rafae\OneDrive\Documentos\Project\COTEMIG - Tecnicas de programacao\Sistema-Escolar-RP\Sistema-escolar-RP\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\rafae\OneDrive\Documentos\Project\COTEMIG - Tecnicas de programacao\Sistema-Escolar-RP\Sistema-escolar-RP\bin\Debug\Renci.SshNet.dll
+C:\Users\rafae\OneDrive\Documentos\Project\COTEMIG - Tecnicas de programacao\Sistema-Escolar-RP\Sistema-escolar-RP\bin\Debug\System.Memory.dll
+C:\Users\rafae\OneDrive\Documentos\Project\COTEMIG - Tecnicas de programacao\Sistema-Escolar-RP\Sistema-escolar-RP\bin\Debug\System.Buffers.dll
+C:\Users\rafae\OneDrive\Documentos\Project\COTEMIG - Tecnicas de programacao\Sistema-Escolar-RP\Sistema-escolar-RP\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\rafae\OneDrive\Documentos\Project\COTEMIG - Tecnicas de programacao\Sistema-Escolar-RP\Sistema-escolar-RP\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\rafae\OneDrive\Documentos\Project\COTEMIG - Tecnicas de programacao\Sistema-Escolar-RP\Sistema-escolar-RP\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\rafae\OneDrive\Documentos\Project\COTEMIG - Tecnicas de programacao\Sistema-Escolar-RP\Sistema-escolar-RP\bin\Debug\MySql.Data.xml
+C:\Users\rafae\OneDrive\Documentos\Project\COTEMIG - Tecnicas de programacao\Sistema-Escolar-RP\Sistema-escolar-RP\obj\Debug\Sistema-escolar-RP.csprojAssemblyReference.cache
+C:\Users\rafae\OneDrive\Documentos\Project\COTEMIG - Tecnicas de programacao\Sistema-Escolar-RP\Sistema-escolar-RP\obj\Debug\Sistema-escolar-RP.exe.config
+C:\Users\rafae\OneDrive\Documentos\Project\COTEMIG - Tecnicas de programacao\Sistema-Escolar-RP\Sistema-escolar-RP\obj\Debug\Sistema_escolar_RP.frmMenu.resources
+C:\Users\rafae\OneDrive\Documentos\Project\COTEMIG - Tecnicas de programacao\Sistema-Escolar-RP\Sistema-escolar-RP\obj\Debug\Sistema_escolar_RP.frmAlunos.resources
+C:\Users\rafae\OneDrive\Documentos\Project\COTEMIG - Tecnicas de programacao\Sistema-Escolar-RP\Sistema-escolar-RP\obj\Debug\Sistema_escolar_RP.Properties.Resources.resources
+C:\Users\rafae\OneDrive\Documentos\Project\COTEMIG - Tecnicas de programacao\Sistema-Escolar-RP\Sistema-escolar-RP\obj\Debug\Sistema-escolar-RP.csproj.GenerateResource.cache
+C:\Users\rafae\OneDrive\Documentos\Project\COTEMIG - Tecnicas de programacao\Sistema-Escolar-RP\Sistema-escolar-RP\obj\Debug\Sistema-escolar-RP.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Documentos\Project\COTEMIG - Tecnicas de programacao\Sistema-Escolar-RP\Sistema-escolar-RP\obj\Debug\Sistema-escolar-RP.csproj.CopyComplete
+C:\Users\rafae\OneDrive\Documentos\Project\COTEMIG - Tecnicas de programacao\Sistema-Escolar-RP\Sistema-escolar-RP\obj\Debug\Sistema-escolar-RP.exe
+C:\Users\rafae\OneDrive\Documentos\Project\COTEMIG - Tecnicas de programacao\Sistema-Escolar-RP\Sistema-escolar-RP\obj\Debug\Sistema-escolar-RP.pdb

@@ -122,6 +122,10 @@
             // cbxSexo
             // 
             this.cbxSexo.FormattingEnabled = true;
+            this.cbxSexo.Items.AddRange(new object[] {
+            "M",
+            "F",
+            "O"});
             this.cbxSexo.Location = new System.Drawing.Point(276, 108);
             this.cbxSexo.Name = "cbxSexo";
             this.cbxSexo.Size = new System.Drawing.Size(170, 21);
